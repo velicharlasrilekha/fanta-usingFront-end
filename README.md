@@ -1,1 +1,1 @@
-it is an fanta project using an front-end like html,css
+it is an fanta project using an front-end like html,css and js
